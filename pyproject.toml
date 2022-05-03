@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "send-image"
+version = "0.1.0"
+description = "Enviar imagens para seu email"
+authors = ["name <alexandermarquesoficial@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.10.4"
+Werkzeug = "^2.1.2"
+Flask = "^2.1.2"
+python-dotenv = "^0.20.0"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^1.6.0"
+prospector = "^1.7.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
