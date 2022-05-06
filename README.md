@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Send images 🖼 </h1>
-  <h3>enviar imagens para seu email de forma simples</h3>
+  <h3>envie imagens para seu email de forma simples</h3>
   <h3>🔴 projeto no ar no <a href="https://send-images.herokuapp.com">Heroku</a></h3>
   <br><br>
 </div>
